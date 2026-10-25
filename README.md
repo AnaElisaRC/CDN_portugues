@@ -1,18 +1,14 @@
-# Português
+📚 Português — Materiais e Trabalhos
 
-Material de aula e trabalhos entregues da disciplina de Português: semiótica discursiva e plástica, análise semiótica do pôster de Divertida Mente, resenhas, pitch deck e textos do Projeto Integrador.
+Este repositório reúne os materiais de aula e trabalhos entregues da disciplina de Português do curso de Tecnologia em Ciência de Dados para Negócios da FATEC Votorantim. Inclui estudos sobre semiótica discursiva e plástica, análise semiótica do pôster de Divertida Mente, resenhas, pitch deck e textos do Projeto Integrador.
 
-## Conteúdo
+📜 Licença e Uso
 
-- AULA/
-- Creative Data Network.docx
-- Criação do Mundo.docx
-- PLANO DE TRABALHO PTMPC (ATIVIDADES DOMICILIARES)_Profa Rosana Helena Nunes.pdf
-- Projeto Integrador Pet.docx
-- Resenha_crítica_Combate_à_Intolerância_Online.docx
-- Resum_Desvendando_os_Segredos_da_Linguagem_Multimodal.docx
-- Trabalhos entregue/
+Este repositório foi criado para fins de registro acadêmico e consulta de portfólio.
+- ❌ Não é permitida a cópia, reprodução ou redistribuição do conteúdo sem autorização prévia.
+- 👁️ Disponível apenas para visualização e consulta.
 
-## Autora
+✍️ Autora
 
-Ana Elisa Rubinato - Ciência de Dados para Negócios (FATEC)
+Ana Elisa Rubinato Cavalheiro  
+Graduanda em Tecnologia em Ciência de Dados para Negócios — FATEC Votorantim
